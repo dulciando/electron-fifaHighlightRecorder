@@ -1,3 +1,3 @@
 ﻿## electron-fifaHighlightRecorder
-##### credits my captain https://fireship.io/courses/
+##### credits to my captain https://fireship.io/courses/
  
